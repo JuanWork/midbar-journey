@@ -33,7 +33,7 @@ Midbar (deserto em hebraico) é a percepção de que:
 
 | Data | Conquista | Insight |
 |------|-----------|---------|
-| {{27-10-2025}} | Primeiro repositório Midbar | O GitHub é como um oásis no deserto - documenta e compartilha a jornada |
+| 27-10-2025 | Primeiro repositório Midbar | O GitHub é como um oásis no deserto - documenta e compartilha a jornada |
 
 ## 👥 Junte-se à Jornada
 
